@@ -264,7 +264,7 @@ main {
     }
 
     .hero-description .title {
-        font-size: 32px;
+        font-size: 4rem;
     }
 
     .hero-options {
@@ -290,7 +290,7 @@ main {
     }
 
     .hero-content .hero-description p {
-        font-size: 13px;
+        font-size: 16px;
     }
 
 }
